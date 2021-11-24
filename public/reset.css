@@ -11,5 +11,8 @@ em,i{
     font-style: normal;
 }
 body{
+    width: 3.75rem;
+    margin: 0 auto;
+    background: #f6f6f6;
     font-size: .16rem;
 }
